@@ -60,12 +60,11 @@
 					
 			
 	
-		<!-----------------------------------------CONTENT------------------------------------------------>	
+			
 		<div class="clr"></div>
 		<div class="content">
-				<!--------------------------------LEFT CONTENT------------------------------------------->
 			<div class="left_content">
-				<!--------Menu Tab-------->
+				
 			<div class="menu_tab">
 				<ul class="menu">
 					<li><a href="trangchu.php">Home</a></li>
@@ -93,13 +92,13 @@
 				</ul>
 			</div>
 			
-			<!--------Navigation------>
+			
 			<div class="navigation">
 				Navigation: <span class="current_navigatio">Home </span>
 			</div>
-			<!--------Left content---->
+			
 			<div class="Categories">
-				<!-----Categories---->
+				
 				<div class="title_box">Categories</div>
 				<ul class="left_menu">
 					<li><img src="images/check.png" alt="checked"><a href="#" >Processors</a></li>
@@ -114,7 +113,7 @@
 					<li><img src="images/check.png" alt="checked"><a href="#">RAM</a></li>
 				</ul>
 			</div>
-				<!-------special products------>
+				
 				<div class="title_box_pro">Special Products</div>
 				<div class="border_box_pro">
 					<div class="product_title"><a href="detail.php">Asus X405UA i3 7100U (EB785T)</a></div>
@@ -126,25 +125,24 @@
 						<span class="price">$270</span>
 					</div>
 				</div>
-				<!-------Newletters-------->
+				
 				<div class="title_box_new">Newletters</div>
 				<div class="border_box_new">
 					<input type="text" class="newletters" name="newletters" value="Your Email">
 					<a href="#" class="join">Join</a>
 				</div>
-				<!--------Banner left----------->
+				
 				<div class="banner_left"><img src="images/banner.jpg" alt="banner"></div>
 			</div>
 			
 				
-				<!------------------------------------Center Content--------------------------------->
-				<div class="center_content">
+					<div class="center_content">
 					<div class="center_title_bar"><img src="images/icon_mui_ten.png" alt="muitenicon">Lastest products</div>
 					<table class="product_box">
 					<!---product col1--->
 						<tr class="center_product_box">
 							
-							<!--product-->
+						
 							<td>
 							<div class="border_box_pro_center">
 								<div class="product_title"><a href="detail.php">Asus X405UA i3 7100U (EB785T)</a></div>
@@ -164,7 +162,7 @@
 								<a href="#"><img class="right_bt_center" alt="detail" src="images/add.png"></a>
 							</div>
 							</td>
-							<!--product-->
+							
 							<td>
 							<div class="border_box_pro_center">
 								<div class="product_title"><a href="#">Iphone 6</a></div>
@@ -185,7 +183,7 @@
 								<a href="#"><img class="right_bt_center" alt="detail" src="images/add.png"></a>
 							</div>
 							</td>
-							<!--product-->
+							
 							<td>
 							<div class="border_box_pro_center">
 								<div class="product_title"><a href="#">LAPTOP ASUS ZENBOOK FLIP S UX370UA - C4217TS</a></div>
@@ -207,9 +205,9 @@
 						
 						</td>
 						</tr>
-						<!--product col2--> 
+					
 						<tr class="center_product_box">
-							<!--product-->
+							
 							<td>
 							<div class="border_box_pro_center">
 								<div class="product_title"><a href="detail.php">Asus X405UA i3 7100U (EB785T)</a></div>
@@ -229,7 +227,7 @@
 								<a href="#"><img class="right_bt_center" alt="detail" src="images/add.png"></a>
 							</div>
 							</td>
-							<!--product-->
+						
 							<td>
 							<div class="border_box_pro_center">
 								<div class="product_title"><a href="#">Iphone 7</a></div>
@@ -250,7 +248,7 @@
 								<a href="#"><img class="right_bt_center" alt="detail" src="images/add.png"></a>
 							</div>
 							</td>
-							<!--product-->
+							
 							<td>
 							<div class="border_box_pro_center">
 								<div class="product_title"><a href="#">LAPTOP ASUS ZENBOOK FLIP S UX370UA - C4217TS</a></div>
@@ -273,7 +271,7 @@
 						</tr>
 						
 						<tr class="center_product_box">
-							<!--product-->
+							
 							<td>
 							<div class="border_box_pro_center">
 								<div class="product_title"><a href="detail.php">Asus X405UA i3 7100U (EB785T)</a></div>
@@ -339,9 +337,9 @@
 					</div>
 				</div>
 				
-				<!-------------------------------------Right Content---------------------------------->
+				
 				<div class="right_content">
-					<!-------Shopping Cart---->
+					
 					<div class="shopping_cart">
 						<div class="cart_title">Shopping Cart</div>
 						<div class="cart_detail">
@@ -354,7 +352,7 @@
 						</div>
 					</div>
 					
-					<!-------what's new------>
+					
 				<div class="title_box_what">What's new</div>
 				<div class="border_box_what">
 					<div class="product_title"><a href="detail2.php">Asus TP410UA i3 7100U/4GB/500GB/Win10</a></div>
@@ -366,7 +364,7 @@
 						<span class="price">370$</span>
 					</div>
 				</div>
-				<!-----Manufactures---->
+				
 				<div class="manufactures">
 					<div class="title_manufactures">Manufactures</div>
 					<ul class="right_menu">
@@ -381,12 +379,11 @@
 						<li><img src="images/check.png" alt="checked"><a href="#">ACER</a></li>
 					</ul>
 				</div>
-				<!--------Banner right----------->
+
 				<div class="banner_right"><img src="images/banner2.jpg" alt="banner"></div>		
 		</div>
 	
 	
-		<!---------------------------------------------FOOTER---------------------------------------->
 		<div class="clr"></div>
 		<div class="footer">
 			<div class="left_footer">
