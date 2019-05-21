@@ -11,7 +11,6 @@
 	
 <body>
 	<div class="main">
-		<!-----------------------------------------TOP---------------------------------------------------->
 		<div class="top">
 			<div class="language">
 				<div>Languages: </div>
@@ -25,10 +24,10 @@
 			</div>
 		</div>
 			
-		<!-----------------------------------------HEADER ------------------------------------------------>	
+		
 		<div class="header">
 			<img class="logo" src="images/logo-TD-3.JPG" alt="TD store" >
-			<div class="slide">
+			<div class="slide">	
 				<div class="top_divider"></div>
 				<div class="slide_content">
 					<div class="content_header">
